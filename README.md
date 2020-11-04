@@ -28,8 +28,8 @@ in a way that reflects their relationships and dependencies
 
 ### Prerequisite:
 
-* Setup Apache Airflow on Ubuntu server (or your server of choice)
-    * Read this [article]() for how to setup Airflow on Ubuntu
+* Install and configure Apache Airflow on Ubuntu Server (or your server of choice)
+    * Read this [article](https://github.com/ebubeabara/install-and-configure-apache-airflow-on-ubuntu-server) for how to setup Airflow on Ubuntu
 * Python 3.6 or greater [download and install here](https://www.python.org/downloads/)
 * SQLite [download and install here](https://www.sqlitetutorial.net/download-install-sqlite/)
 
@@ -48,3 +48,7 @@ in a way that reflects their relationships and dependencies
 ![Airflow DAG landing times](docs/images/dag_landing_times.PNG "Airflow DAG landing times")
 
 ![Airflow DAG code](docs/images/dag_code.PNG "Airflow DAG code")
+
+![Glue Reply logo](docs/images/glue_reply_logo.png "Glue Reply - www.reply.com/glue-reply/")
+
+by **Ebube Abara**
