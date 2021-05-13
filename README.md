@@ -48,7 +48,3 @@ in a way that reflects their relationships and dependencies
 ![Airflow DAG landing times](docs/images/dag_landing_times.PNG "Airflow DAG landing times")
 
 ![Airflow DAG code](docs/images/dag_code.PNG "Airflow DAG code")
-
-![Glue Reply logo](docs/images/glue_reply_logo.png "Glue Reply - www.reply.com/glue-reply/")
-
-by **Ebube Abara**
